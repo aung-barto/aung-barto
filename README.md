@@ -7,7 +7,7 @@ She earned her master’s degree in Architecture from the Savannah College of Ar
 
 While she understands that GitHub contributions are a big part of being a software developer, life at IBM was packed with internal work—that’s why her public GitHub looks a little quiet. So here are a few snapshots from her time there.
 
-<img width="508" alt="commits_pastyr" src="https://github.com/user-attachments/assets/43ded275-244e-4155-95f3-eecded36f398" />
+<img width="605" alt="commits_pastyr" src="https://github.com/user-attachments/assets/a39f7f7e-cc73-401c-8316-a8d9fb0c4585" />
 <img width="605" alt="commits_2024" src="https://github.com/user-attachments/assets/4fe89a17-9208-40d6-aafe-78f12141391a" />
 <img width="605" alt="commits_2023" src="https://github.com/user-attachments/assets/787fc9cb-7669-4685-964c-5597e9091aee" />
 <img width="605" alt="commits_2022" src="https://github.com/user-attachments/assets/45ee9567-043c-4fbb-9d5d-337e4a470e00" />
